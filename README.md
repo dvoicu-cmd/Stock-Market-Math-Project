@@ -1,1 +1,0 @@
-# Stock-Market-Math-Project
