@@ -1,5 +1,7 @@
 This is the script I created and used for the weekly stock record chart.
 
+Make sure you have a way of running a python file with a compiler. The simplest thing you could do is copy paste the code into an online pyton compiler.
+
 Instructions:
 Make sure to enter proper positive values when prompted. Don't enter letters else the script won't function.
 
